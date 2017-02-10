@@ -6,8 +6,9 @@ public class ChessGame {
 	private Player p2 = new Player();
 
 	Piece p = new Pawn(p1, board);
+	
 	public ChessGame() {
-
+		
 	}
 	public void game(){
 		
